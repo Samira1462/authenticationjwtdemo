@@ -1,4 +1,4 @@
-package com.samira1462.authenticationdemo.model;
+package com.samira1462.authenticationdemo.dto;
 
 public class JwtAuthenticationResponse {
     private String accessToken;

@@ -1,4 +1,4 @@
-package com.samira1462.authenticationdemo.model;
+package com.samira1462.authenticationdemo.dto;
 
 import javax.validation.constraints.NotBlank;
 
